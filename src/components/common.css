@@ -1,0 +1,22 @@
+td{
+    background-color: rgb(252,139,128);
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 40px;
+    border: 20px solid white;
+
+    
+}
+input{
+    color: black;
+    padding: 20px;
+    margin: 10px;
+    width: 400px;
+    border: none;
+}
+table{
+  padding: 70px;
+}
+tr{
+    color: white;
+}
